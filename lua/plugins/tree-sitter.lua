@@ -15,6 +15,7 @@ return {
 		"c",
 		"typescript",
 		"java",
+		"go", 
 	    },
 	    auto_installed = false,
 	})
